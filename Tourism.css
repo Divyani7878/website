@@ -1,0 +1,26 @@
+.demo{
+ 
+  background: transparent !important;
+  background-size: cover;
+}
+.card{
+  height:100%;
+}
+.container1{
+  padding-top:3%;
+  padding-left:8%;
+  padding-right:5%;
+}
+.container2{
+  padding-top:1%;
+  padding-bottom:4%;
+  padding-left:8%;
+  padding-right:5%;
+}
+.btn{
+  background-color:black;
+  color:white;
+  }
+  .content{
+  background: transparent !important;
+  }
